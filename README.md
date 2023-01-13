@@ -1,5 +1,5 @@
 # siteDeViagens
-Site para viagem
+Projeto de Site para viagens
 
 OPÇÕES DO SITE:
   Menu responsivo;
